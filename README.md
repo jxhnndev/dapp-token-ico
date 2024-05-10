@@ -213,7 +213,7 @@ npx hardhat run --network localhost scripts/upgrade_box.js
 
 👤 **John Ysique Carrillo**
 
-- Github: [@jellydn](https://github.com/jxhnndev)
+- Github: [@jxhnndev](https://github.com/jxhnndev)
 
 ## Stargazers 🌟
 
