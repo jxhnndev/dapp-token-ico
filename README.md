@@ -211,11 +211,9 @@ npx hardhat run --network localhost scripts/upgrade_box.js
 
 ## Author
 
-👤 **Dung Huynh**
+👤 **John Ysique Carrillo**
 
-- Website: https://productsway.com/
-- Twitter: [@jellydn](https://twitter.com/jellydn)
-- Github: [@jellydn](https://github.com/jellydn)
+- Github: [@jellydn](https://github.com/jxhnndev)
 
 ## Stargazers 🌟
 
